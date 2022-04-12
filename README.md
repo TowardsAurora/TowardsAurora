@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wanna-strong
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning html,c++,python
+- 🌱 I’m currently learning html,c++,python.java,c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
