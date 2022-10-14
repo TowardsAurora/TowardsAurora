@@ -1,8 +1,10 @@
+# My Introduction
 - 👋 Hi, I’m @wanna-strong
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning html,c++,python.java,c#
+- 🌱 I have learned c++, python, Java
+- ✨ Now I'm learning Java Web, SSM...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me? Email = "2913563423@qq.com"
 
 <!---
 wanna-strong/wanna-strong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
