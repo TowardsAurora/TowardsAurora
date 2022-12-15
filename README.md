@@ -1,8 +1,8 @@
 # My Introduction
 - 👋 Hi, I’m @TowardsAurora
 - 👀 I’m interested in programing
-- 🌱 I have learned c++, python, Java
-- ✨ Now I'm learning Java Web, SSM...
+- 🌱 I have learned c,c++, python, Java
+- ✨ Now I'm learning Spring boot，vue3...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Email = "2913563423@qq.com"
 
